@@ -1,0 +1,11 @@
+<extentReports>
+    <configuration>
+        <theme> standard </theme>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <documenttitle>Facebook Test Summary Report</documenttitle>
+        <reportName> FB TSR</reportName>
+        <dateFormat>yyyy:mm:dd</dateFormat>
+        <timeFormat>hh:mm:ss</timeFormat>
+    </configuration>
+</extentReports>
